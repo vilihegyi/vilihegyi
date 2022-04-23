@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/vilihegyi?tab=repositories)
 
-- 📫 How to reach me: **vilidev97@gmail.com**
+- 📫 How to reach me: **vili@devlaboratories.com**
 
 <hr />
 
