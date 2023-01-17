@@ -1,15 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vili Hegyi</h1>
-<h3 align="center">A passionate Senior C++ Developer based in Romania</h3>
+<h1 align="center">Hi, I'm Vili 👋</h1>
+<h3 align="center">A passionate Senior C++ Developer by day and memester by night based in Romania</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vilihegyi&color=blueviolet&style=flat">
 </p>
 
-- 🌱 I’m currently working on [playOS](https://github.com/vilihegyi/playOS) while learning **Front-end and Mobile development** as a hobby on the side
+- 👨‍💻 I'm currently working as a Senior C++ Freelancer / Contractor
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/vilihegyi?tab=repositories)
+- 🌱 I'm learning about multiple programming languages, seeing which fits my project's best needs, or just out of curiosity and fun!
 
-- 📫 How to reach me: **vili@devlaboratories.com**
+- 🤝 I’m looking to collaborate with other businesses.
+
+- 💬 Ask me about pretty much anything you'd like to
 
 <hr />
 
@@ -28,16 +30,17 @@
 <p>
 <a href="https://linkedin.com/in/vilihegyi"><img src="https://img.shields.io/badge/-vilihegyi-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:vili@devlaboratories.com"><img src="https://img.shields.io/badge/-vili@devlaboratories.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://twitter.com/viliontweetter"><img src="https://img.shields.io/badge/-@viliontweetter-1877F2?style=flat&logo=Twitter&logoColor=white" /></a>
+<a href="https://twitter.com/vilihegyi"><img src="https://img.shields.io/badge/-@vilihegyi-1877F2?style=flat&logo=Twitter&logoColor=white" /></a>
 </p>
+
+<!--
 <hr />
 
-### ⚙️ &nbsp;GitHub Analytics
-
+### ⚙️ &nbsp;GitHub Analytics - seems broken
 <p align="center">
     <a href="https://github.com/vilihegyi">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vilihegyi&show_icons=true&theme=github_dark&hide_border=false&border_radius=25&border_color=58A6FF&count_private=true&custom_title=Vili's%20Github%20Stats" />
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=vilihegyi&layout=compact&langs_count=8&theme=algolia" />
     </a>
 </p>
-<!--<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vilihegyi&" alt="vilihegyi" /></p>-->
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vilihegyi&" alt="vilihegyi" /></p>-->
