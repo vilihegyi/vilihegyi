@@ -30,7 +30,6 @@
 <p>
 <a href="https://linkedin.com/in/vilihegyi"><img src="https://img.shields.io/badge/-vilihegyi-0077B5?style=flat&logo=Linkedin&logoColor=white" /></a>
 <a href="mailto:vili@devlaboratories.com"><img src="https://img.shields.io/badge/-vili@devlaboratories.com-D14836?style=flat&logo=Gmail&logoColor=white" /></a>
-<a href="https://twitter.com/vilihegyi"><img src="https://img.shields.io/badge/-@vilihegyi-1877F2?style=flat&logo=Twitter&logoColor=white" /></a>
 </p>
 
 <!--
